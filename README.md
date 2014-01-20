@@ -1,1 +1,0 @@
-Un mini jeu SDL utilisant la lib SDLazy
